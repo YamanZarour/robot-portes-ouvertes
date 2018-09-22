@@ -21,6 +21,24 @@
 #include "C:\Users\lenovo i5 2\wpilib\user\cpp\include\ctre\phoenix\MotorControl\CAN\WPI_TalonSRX.h"
 #include <Timer.h>
 
+
+
+
+
+
+
+
+
+
+
+
+//MAJEED WAS HERE
+
+
+
+
+
+
 class Robot : public frc::TimedRobot {
 public:
 	void RobotInit() override;
